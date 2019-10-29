@@ -1,4 +1,0 @@
-print("Word up?")
-
-
-#changeisgood
